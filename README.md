@@ -35,6 +35,10 @@ Complete la tabla:
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 
+Basandonos en la clasificación expuesta en clase, usamos como referencia las diferentes fuentes citadas en la tabla; partiendo de las imagenes de referencia se busco desarrollar el código en Processing mostrando una pequeña variacion respecto a la imagen original.
+
+Particularmente resulta interesante como la geometria ayudada de la psicologia y la percepción logra hacer de las figuras simples algo interesante para nuestro cerebro. Adicionalmente nos gustaria profundizar en el desarrollo de ilusiones que usen un plano tridimencional.
+
 ## Entrega
 
 * Modo de entrega: [Fork](https://help.github.com/articles/fork-a-repo/) la plantilla en las cuentas de los integrantes (de las que se tomará una al azar).
