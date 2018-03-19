@@ -13,19 +13,19 @@ Implementar al menos 6 ilusiones de tres tipos distintos (paradójicas, geométr
 
 Complete la tabla:
 
-| Integrante | github nick |
-|------------|-------------|
-|            |             |
-
+|       Integrante        | github nick |
+|-------------------------|-------------|
+| Christian Vaca Daza     | ccvacad     |
+| Osmar Castillo Lanchero | oacastillol |
 ## Discusión
 
 1. Complete la la tabla
 
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
+| Necker cube | Cognitive | [https://www.simplypsychology.org/](https://www.simplypsychology.org/perception-theories.html) | N/A |                             |
+| Hermann grid | Physiological | Presentacion de clase | N/A |                             |
+|Are These Lines Moving, or Is This a Spinning Square?| Movimiento| [http://www.slate.com/](http://www.slate.com/blogs/bad_astronomy/2016/04/19/binding_motion_illusion_of_lines_moving_looks_like_a_spinning_square.html) | Con oprimir cualquier tecla desaparece y aparecen los rombos |                             |
 |         |           |            |                                    |                             |
 |         |           |            |                                    |                             |
 |         |           |            |                                    |                             |
